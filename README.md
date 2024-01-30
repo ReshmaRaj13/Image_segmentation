@@ -5,6 +5,6 @@ Image segmentation refers to the class of algorithms that partition the image in
 In that sense, image thresholding is the simplest kind of image segmentation because it partitions the image into two groups of pixels — white for foreground, and black for background.
 
 # The figure below shows different types of segmentation algorithms:
-![]([https://learnopencv.com/wp-content/uploads/2020/06/segmentation_methods-1.png])
+![](https://learnopencv.com/wp-content/uploads/2020/06/segmentation_methods-1.png)
 
 
