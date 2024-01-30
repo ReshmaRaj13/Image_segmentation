@@ -14,6 +14,29 @@ In that sense, image thresholding is the simplest kind of image segmentation bec
 
 ![](https://mindy-support.com/wp-content/uploads/2022/10/types-of-image-segmentation-1.jpg)
 
+## Image segmentation with deep learning
+
+Multiple image segmentation algorithms have been developed. Earlier methods include thresholding, histogram-based bundling, region growing, k-means clustering, or watersheds. However, more advanced algorithms are based on active contours, graph cuts, conditional and Markov random fields, and sparsity-based methods. Over the last few years, Deep Learning models have introduced a new segment of image segmentation models with remarkable performance improvements. Deep Learning based image segmentation models often achieve the best accuracy rates on popular benchmarks, resulting in a paradigm shift in the field. 
+Some of the deep learning models used for image segmenation are:
+- Fully Convolutional networks
+- U-Net
+- Mask R-CNN
+- DeepLab
+- Interactive segmentation
+- SAM
+
+## Applications of image segmentation
+- Medical imaging
+- Video surveillance
+- Autonomous vehicles
+- Agriculture
+- Satellite imagery
+- Robotics
+- Art and design
+- Gaming
+- Fashion and retail
+
+
 
 
 
